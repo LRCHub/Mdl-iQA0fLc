@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Absolute Soul",
+  "base_artist": "鈴木このみ",
+  "createdAt": "2026-03-23T18:10:21.189351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Absolute Soul",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/01_Absolute_Soul_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Absolute Soul",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/02_Absolute_Soul_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Absolute Soul",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/03_Absolute_Soul_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Absolute Soul",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/04_Absolute_Soul_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Absolute Soul",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/05_Absolute_Soul_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Absolute Soul",
+      "artist": "Suzuki Konomi",
+      "has_synced": true,
+      "path": "select/06_Absolute_Soul_Suzuki_Konomi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Absolute Soul",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/07_Absolute_Soul_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Absolute Soul (ALBUM VER.)",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/08_Absolute_Soul_(ALBUM_VER.)_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Absolute Soul (Album ver.)",
+      "artist": "Suzuki Konomi",
+      "has_synced": true,
+      "path": "select/09_Absolute_Soul_(Album_ver.)_Suzuki_Konomi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Absolute Soul -blade-",
+      "artist": "Suzuki Konomi",
+      "has_synced": false,
+      "path": "select/10_Absolute_Soul_-blade-_Suzuki_Konomi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Absolute Soul -blade-",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/11_Absolute_Soul_-blade-_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Absolute Soul",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/12_Absolute_Soul_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Absolute Soul -shield-",
+      "artist": "Konomi Suzuki",
+      "has_synced": false,
+      "path": "select/13_Absolute_Soul_-shield-_Konomi_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Absolute Soul (ALBUM VER.)",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/14_Absolute_Soul_(ALBUM_VER.)_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Absolute Soul -shield- (off vocal)",
+      "artist": "Konomi Suzuki",
+      "has_synced": false,
+      "path": "select/15_Absolute_Soul_-shield-_(off_vocal)_Konomi_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Absolute Soul (off vocal)",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/16_Absolute_Soul_(off_vocal)_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Absolute Soul",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_01_Absolute_Soul_鈴木このみ.txt"
+    }
+  ]
+}
